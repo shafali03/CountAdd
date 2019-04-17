@@ -9,7 +9,7 @@
   min-height: 100vh;
 }
 body {
-  background: url("../img/mainBcg.jpeg") center/cover fixed no-repeat;
+  background: url("../img/smokeColor.jpeg") center/cover fixed no-repeat;
   color: var(--mainWhite);
 }
 .main-container {
